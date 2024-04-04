@@ -9,8 +9,8 @@ This extension is not affiliated with or produced by LinkedIn™. I've gotten a 
 ## Screenshots
 ![Newsfeed hidden](/images/1.png)
 ![Newsfeed showing](/images/2.png)
-![Connections hidden](/chrome-store/connections-hidden.png)
-![Connections showing](/chrome-store/connections-showing.png)
-![Jobs showing](/chrome-store/jobs-showing.png)
-![Jobs showing](/chrome-store/jobs-showing.png)
-![Jobs showing](/chrome-store/jobs-showing.png)
+![Connections hidden](/images/3.png)
+![Connections showing](/images/4.png)
+![Jobs showing](/images/5.png)
+![Jobs showing](/images/6.png)
+
