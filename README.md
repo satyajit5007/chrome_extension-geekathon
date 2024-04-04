@@ -1,13 +1,12 @@
 # LinkedIn™ Distraction Blocker Chrome Extension
 ## Overview
 This Chrome extension is designed to help users minimize distractions while browsing LinkedIn™. It blocks certain distracting elements on the LinkedIn™ website, allowing users to focus on their intended tasks more effectively.
-
+<ul>
 Features
 Blocks distracting elements on the LinkedIn™ website such as:
 News Feed
 Recommended Connections
-Sponsored Content
-Etc.
+Sponsored Content Etc.</ul>
 
 Installation
 To install the extension, follow these steps:
