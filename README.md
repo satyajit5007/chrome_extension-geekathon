@@ -7,8 +7,8 @@ See a problem? Please [file any issues here](https://github.com//satyajit5007/ch
 This extension is not affiliated with or produced by LinkedIn™. I've gotten a lot of value from using LinkedIn™ in the past, and hope that this extension will help you use it even more effectively. 
 
 ## Screenshots
-![Newsfeed hidden](/chrome-store/newsfeed-hidden.png)
-![Newsfeed showing](/chrome-store/newsfeed-showing.png)
+![Newsfeed hidden](/images/1.png)
+![Newsfeed showing](/images/2.png)
 ![Connections hidden](/chrome-store/connections-hidden.png)
 ![Connections showing](/chrome-store/connections-showing.png)
 ![Jobs showing](/chrome-store/jobs-showing.png)
