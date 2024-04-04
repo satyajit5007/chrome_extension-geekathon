@@ -1,4 +1,4 @@
-# LinkedIn™ Post Distraction Blocker Chrome Extension
+# LinkedIn™ Distraction Blocker Chrome Extension
 
 This Chrome extension is specifically designed to help users minimize distractions while browsing LinkedIn™ posts. It blocks certain distracting elements on the LinkedIn™ website, allowing users to focus on reading posts more effectively.
 
