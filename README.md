@@ -12,3 +12,5 @@ This extension is not affiliated with or produced by LinkedIn™. I've gotten a 
 ![Connections hidden](/chrome-store/connections-hidden.png)
 ![Connections showing](/chrome-store/connections-showing.png)
 ![Jobs showing](/chrome-store/jobs-showing.png)
+![Jobs showing](/chrome-store/jobs-showing.png)
+![Jobs showing](/chrome-store/jobs-showing.png)
