@@ -35,11 +35,6 @@ See a problem? Please [file any issues here](https://github.com//satyajit5007/ch
 
 This extension is not affiliated with or endorsed by LinkedIn™ in any way. It is an independent project created for educational and productivity purposes.
 
-
-Contributing
-Contributions are welcome! If you have any ideas for improving the extension or encounter any issues, feel free to open an issue or submit a pull request on GitHub.
-See a problem? Please [file any issues here](https://github.com//satyajit5007/chrome_extension-geekathon/issues). 
-
 This extension is not affiliated with or produced by LinkedIn™. I've gotten a lot of value from using LinkedIn™ in the past, and hope that this extension will help you use it even more effectively. 
 
 ## Screenshots
